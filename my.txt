@@ -1,1 +1,1 @@
-print("life is short, I study java!")
+print("life is short, I study scala!")
